@@ -4,9 +4,10 @@
   <groupId>testproject</groupId>
   <artifactId>testproject</artifactId>
   <packaging>jar</packaging>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2</version>
   <name>testproject</name>
   <url>http://maven.apache.org</url>
+  
    <distributionManagement>
     <repository>
         <id>releases</id>
